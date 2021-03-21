@@ -1,0 +1,14 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body {
+    background: rgb(230, 222, 193);
+    padding: 1%;
+}
+a {
+    text-decoration: none;
+}
+ul li {
+    list-style: none;
+}

@@ -1,0 +1,26 @@
+footer {
+    position: fixed;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+}
+
+#piePagina {
+    background:  rgb(175, 124, 46);
+    height: 10vh;
+}
+#piePagina ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#piePagina ul li {
+    color: white;
+    display: inline;
+    padding: 10px;
+    margin: 10px;
+}
+#piePagina ul li i:hover {
+    color: black;
+}
